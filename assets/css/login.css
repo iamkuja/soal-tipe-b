@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+.top-50 {
+	margin-top: 50px;
+}
+
+body {
+	background-color: #ecf0f1;
+	font-family: Inconsolata;
+}
